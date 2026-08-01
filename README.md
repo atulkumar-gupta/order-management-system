@@ -155,32 +155,24 @@ Scheduler execution logs are stored in MongoDB.
 
 ### All Orders
 
-![All Orders](screenshots/all-orders.png)
+![All Orders](screenshot 2026-08-01 021541.png)
 
 ### Placed Orders
 
-![Placed](screenshots/placed.png)
+![Placed](screenshot 2026-08-01 021911.png)
 
 ### Processing Orders
 
-![Processing](screenshots/processing.png)
-
-### Ready To Ship
-
-![Ready To Ship](screenshots/ready-to-ship.png)
+![Processing](screenshot 2026-08-01 021927.png)
 
 ### Completed Orders
 
-![Completed](screenshots/completed.png)
+![Completed](screenshot 2026-08-01 033503.png)
 
 ### Cancelled Orders
 
-![Cancelled](screenshots/cancelled.png)
-
-### Create Order API
-
-![Create Order](screenshots/postman-create.png)
+![Cancelled](screenshot 2026-08-01 033519.png)
 
 ### Get Orders API
 
-![Get Orders](screenshots/postman-get.png)
+![Get Orders](screenshot 2026-08-01 023156.png)
