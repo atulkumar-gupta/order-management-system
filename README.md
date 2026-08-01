@@ -1,5 +1,8 @@
-# Order Management System
-
+<h1 align="center">
+  <img src="screenshots/laptop.png" width="60" alt="Laptop Logo" />
+  <br>
+  Order Management System
+</h1>
 ## Project Overview
 
 A Full Stack Order Management System built using React.js, Node.js, Express.js and MongoDB.
@@ -150,29 +153,28 @@ Scheduler execution logs are stored in MongoDB.
 ## Output Screenshots
 
 ### Dashboard
-
 ![Dashboard](screenshots/dashboard.png)
 
 ### All Orders
-
-![All Orders](screenshot 2026-08-01 021541.png)
+![All Orders](screenshots/all-orders.png)
 
 ### Placed Orders
-
-![Placed](screenshot 2026-08-01 021911.png)
+![Placed Orders](screenshots/placed.png)
 
 ### Processing Orders
+![Processing Orders](screenshots/processing.png)
 
-![Processing](screenshot 2026-08-01 021927.png)
+### Ready To Ship Orders
+![Ready To Ship](screenshots/ready-to-ship.png)
 
 ### Completed Orders
-
-![Completed](screenshot 2026-08-01 033503.png)
+![Completed Orders](screenshots/completed.png)
 
 ### Cancelled Orders
+![Cancelled Orders](screenshots/cancelled.png)
 
-![Cancelled](screenshot 2026-08-01 033519.png)
+### Create Order API
+![Create API](screenshots/postman-create.png)
 
 ### Get Orders API
-
-![Get Orders](screenshot 2026-08-01 023156.png)
+![Get API](screenshots/postman-get.png)
