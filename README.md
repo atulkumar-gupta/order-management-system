@@ -1,11 +1,20 @@
-<h1 align="center">
-  <img src="screenshots/laptop.png" width="60" alt="Laptop Logo" />
-  <br>
-  Order Management System
-</h1>
-## Project Overview
+<table>
+<tr>
+<td width="80">
+
+<img src="screenshots/laptop.png" width="60">
+
+</td>
+
+<td>
+
+# Order Management System
 
 A Full Stack Order Management System built using React.js, Node.js, Express.js and MongoDB.
+
+</td>
+</tr>
+</table>
 
 This project allows users to:
 
